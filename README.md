@@ -29,11 +29,11 @@ The project utilizes an online retail transactional dataset covering:
 
 ##### Dashboard Preview
 
-![Dashboard](images/Chart1.png)
-![Dashboard](images/Chart2.png)
-![Dashboard](images/Chart3.png)
-![Dashboard](images/Chart4.png)
-![Dashboard](images/Chart5.png)
+![Dashboard](Images/Chart1.png)
+![Dashboard](Images/Chart2.png)
+![Dashboard](Images/Chart3.png)
+![Dashboard](Images/Chart4.png)
+![Dashboard](Images/Chart5.png)
 
 ##### Why This Dashboard Stands Out
 
